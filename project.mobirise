@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "cohav_logo",
-    "currentPage": "versiyon3",
+    "currentPage": "versiyon1",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -655,7 +655,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "versiyon1",
+              "link": "versiyon2",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
