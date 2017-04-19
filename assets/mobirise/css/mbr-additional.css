@@ -563,6 +563,9 @@ h6,
 #msg-box8-6 .mbr-section-title {
   font-size: 48px;
 }
+#msg-box8-6 .btn {
+  font-size: 20px;
+}
 #features3-1d H4 {
   color: #ffffff;
 }
@@ -720,6 +723,9 @@ h6,
 }
 #msg-box8-o .mbr-section-title {
   font-size: 48px;
+}
+#msg-box8-o .btn {
+  font-size: 20px;
 }
 #features3-1f H4 {
   color: #ffffff;

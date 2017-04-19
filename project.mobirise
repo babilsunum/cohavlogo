@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "cohav_logo",
-    "currentPage": "versiyon3-2",
+    "currentPage": "versiyon3",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -443,6 +443,9 @@
             },
             ".mbr-section-title": {
               "font-size": "48px"
+            },
+            ".btn": {
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -452,7 +455,7 @@
           "_anchor": "msg-box8-6",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/logo1-banner.jpg",
@@ -467,11 +470,11 @@
             "overlayColor": "#41a85f",
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButton": true
           },
           "title": "ÇOHAV&nbsp;<br>Logo 1<br>",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"versiyon1-2\" data-toolbar=\"-mbrBtnMove\">Logo 1 Versiyonlar</a>"
         },
         {
           "_tags": [
@@ -642,7 +645,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo1-box-13.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-box-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -658,7 +661,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"versiyon1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 1</a> <a data-app-btn=\"true\" href=\"versiyon1-2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 1 VERSİYONLAR</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo2-box-14.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo2-box-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -674,7 +677,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"versiyon2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo3-box-15.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo3-box-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -831,7 +834,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"versiyon1\" aria-expanded=\"true\">LOGO 1</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"versiyon2\" aria-expanded=\"false\">LOGO 2</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"versiyon3\" aria-expanded=\"false\">LOGO 3</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">LOGO 1 VERSİYONLAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">LOGO 3 VERSİYONLAR</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"versiyon1\" aria-expanded=\"false\">LOGO 1</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"versiyon2\" aria-expanded=\"false\">LOGO 2</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"versiyon3\" aria-expanded=\"false\">LOGO 3</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"versiyon1-2\">LOGO 1 VERSİYONLAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"versiyon3-2\">LOGO 3 VERSİYONLAR</a></li>"
         },
         {
           "_tags": [
@@ -1059,7 +1062,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo1-box-13.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-box-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1075,7 +1078,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"versiyon1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 1</a> <a data-app-btn=\"true\" href=\"versiyon1-2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 1 VERSİYONLAR</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo2-box-14.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo2-box-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1091,7 +1094,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"versiyon2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo3-box-15.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo3-box-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1248,7 +1251,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"versiyon1\" aria-expanded=\"true\">LOGO 1</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"versiyon2\" aria-expanded=\"false\">LOGO 2</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"versiyon3\" aria-expanded=\"false\">LOGO 3</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">LOGO 1 VERSİYONLAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">LOGO 3 VERSİYONLAR</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"versiyon1\" aria-expanded=\"false\">LOGO 1</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"versiyon2\" aria-expanded=\"false\">LOGO 2</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"versiyon3\" aria-expanded=\"false\">LOGO 3</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"versiyon1-2\">LOGO 1 VERSİYONLAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"versiyon3-2\">LOGO 3 VERSİYONLAR</a></li>"
         },
         {
           "_tags": [
@@ -1277,6 +1280,9 @@
             },
             ".mbr-section-title": {
               "font-size": "48px"
+            },
+            ".btn": {
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -1286,7 +1292,7 @@
           "_anchor": "msg-box8-o",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/logo3-banner.jpg",
@@ -1301,11 +1307,11 @@
             "overlayColor": "#fac51c",
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButton": true
           },
           "title": "ÇOHAV&nbsp;<br>Logo 3",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"versiyon3-2\" data-toolbar=\"-mbrBtnMove\">Logo 3 Versiyonlar</a>"
         },
         {
           "_tags": [
@@ -1476,7 +1482,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo1-box-13.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-box-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1492,7 +1498,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"versiyon1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 1</a> <a data-app-btn=\"true\" href=\"versiyon1-2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 1 VERSİYONLAR</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo2-box-14.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo2-box-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1508,7 +1514,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"versiyon2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo3-box-15.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo3-box-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1889,7 +1895,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo1-box-13.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-box-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1905,7 +1911,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"versiyon1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 1</a> <a data-app-btn=\"true\" href=\"versiyon1-2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 1 VERSİYONLAR</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo2-box-14.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo2-box-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1921,7 +1927,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"versiyon2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo3-box-15.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo3-box-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2352,7 +2358,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo1-box-13.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-box-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2368,7 +2374,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"versiyon1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 1</a> <a data-app-btn=\"true\" href=\"versiyon1-2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 1 VERSİYONLAR</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo2-box-14.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo2-box-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2384,7 +2390,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"versiyon2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo3-box-15.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo3-box-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
